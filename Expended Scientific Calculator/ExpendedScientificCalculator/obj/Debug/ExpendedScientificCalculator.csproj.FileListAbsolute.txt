@@ -1,0 +1,44 @@
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe.config
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Form1.resources
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Properties.Resources.resources
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csproj.GenerateResource.Cache
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.pdb
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.exe
+G:\CODE\C # Projects\C# 2012 Project\Console Application\ConsoleApplication1\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.pdb
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe.config
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.exe
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.pdb
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.pdb
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Form1.resources
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Properties.Resources.resources
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csproj.GenerateResource.Cache
+G:\CODE\C # Projects\C# 2012 Project\Final Project 2012\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csprojResolveAssemblyReference.cache
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe.config
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.exe
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.pdb
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.pdb
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csprojResolveAssemblyReference.cache
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Form1.resources
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Properties.Resources.resources
+G:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csproj.GenerateResource.Cache
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe.config
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.exe
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.pdb
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.pdb
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csprojResolveAssemblyReference.cache
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Form1.resources
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Properties.Resources.resources
+H:\CODE\C # Projects\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csproj.GenerateResource.Cache
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe.config
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.exe
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.pdb
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.exe
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\bin\Debug\ExpendedScientificCalculator.pdb
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csprojResolveAssemblyReference.cache
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Form1.resources
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.Properties.Resources.resources
+F:\Final Project\Final Project 2012  Calculator\ExpendedScientificCalculator\ExpendedScientificCalculator\obj\Debug\ExpendedScientificCalculator.csproj.GenerateResource.Cache
